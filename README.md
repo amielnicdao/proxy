@@ -20,6 +20,10 @@ You will need to install the following to make your own Proxy:
 2. Answer the 10 survey questions.
 3. Get matched with your perfect match.
 
+![HEROKU](heroku.PNG)
+
+![LOCAL HOST](localhost.PNG)
+
 ## Explore
 
 1. Clicking "API Friends List" will take you to the [user base](https://protected-beach-62553.herokuapp.com/api/friends)
