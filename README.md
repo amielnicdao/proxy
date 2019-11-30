@@ -20,7 +20,11 @@ You will need to install the following to make your own Proxy:
 2. Answer the 10 survey questions.
 3. Get matched with your perfect match.
 
+**Heroku Sample Result**
+
 ![HEROKU](heroku.PNG)
+
+**Local Host Sample Result**
 
 ![LOCAL HOST](localhost.PNG)
 
